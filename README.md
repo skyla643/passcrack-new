@@ -1,4 +1,3 @@
-```markdown
 # Password Leak Checker
 
 A Python script to check if your passwords have been compromised in any known data breaches using the **Have I Been Pwned** API.
